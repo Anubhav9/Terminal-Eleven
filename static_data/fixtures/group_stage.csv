@@ -1,0 +1,73 @@
+match_no,group,team_a,team_b,venue,utc_datetime,espn_event_id
+1,A,Mexico,South Africa,"Estadio Azteca, Mexico City",2026-06-11T19:00:00Z,760415
+2,A,South Korea,Czechia,"Estadio Akron, Zapopan",2026-06-12T02:00:00Z,760414
+3,B,Canada,Bosnia and Herzegovina,"BMO Field, Toronto",2026-06-12T19:00:00Z,760416
+4,D,United States,Paraguay,"SoFi Stadium, Inglewood",2026-06-13T01:00:00Z,760417
+8,B,Qatar,Switzerland,"Levi's Stadium, Santa Clara",2026-06-13T19:00:00Z,760420
+7,C,Brazil,Morocco,"MetLife Stadium, East Rutherford",2026-06-13T22:00:00Z,760419
+5,C,Haiti,Scotland,"Gillette Stadium, Foxborough",2026-06-14T01:00:00Z,760418
+6,D,Australia,Turkiye,"BC Place, Vancouver",2026-06-14T04:00:00Z,760421
+10,E,Germany,Curacao,"NRG Stadium, Houston",2026-06-14T17:00:00Z,760422
+11,F,Netherlands,Japan,"AT&T Stadium, Arlington",2026-06-14T20:00:00Z,760425
+9,E,Ivory Coast,Ecuador,"Lincoln Financial Field, Philadelphia",2026-06-14T23:00:00Z,760423
+12,F,Sweden,Tunisia,"Estadio BBVA, Guadalupe",2026-06-15T02:00:00Z,760424
+14,H,Spain,Cape Verde,"Mercedes-Benz Stadium, Atlanta",2026-06-15T16:00:00Z,760428
+16,G,Belgium,Egypt,"Lumen Field, Seattle",2026-06-15T19:00:00Z,760426
+13,H,Saudi Arabia,Uruguay,"Hard Rock Stadium, Miami Gardens",2026-06-15T22:00:00Z,760429
+15,G,Iran,New Zealand,"SoFi Stadium, Inglewood",2026-06-16T01:00:00Z,760427
+17,I,France,Senegal,"MetLife Stadium, East Rutherford",2026-06-16T19:00:00Z,760432
+18,I,Iraq,Norway,"Gillette Stadium, Foxborough",2026-06-16T22:00:00Z,760430
+19,J,Argentina,Algeria,"Arrowhead Stadium, Kansas City",2026-06-17T01:00:00Z,760433
+20,J,Austria,Jordan,"Levi's Stadium, Santa Clara",2026-06-17T04:00:00Z,760431
+23,K,Portugal,DR Congo,"NRG Stadium, Houston",2026-06-17T17:00:00Z,760435
+22,L,England,Croatia,"AT&T Stadium, Arlington",2026-06-17T20:00:00Z,760437
+21,L,Ghana,Panama,"BMO Field, Toronto",2026-06-17T23:00:00Z,760434
+24,K,Uzbekistan,Colombia,"Estadio Azteca, Mexico City",2026-06-18T02:00:00Z,760436
+25,A,Czechia,South Africa,"Mercedes-Benz Stadium, Atlanta",2026-06-18T16:00:00Z,760438
+26,B,Switzerland,Bosnia and Herzegovina,"SoFi Stadium, Inglewood",2026-06-18T19:00:00Z,760439
+27,B,Canada,Qatar,"BC Place, Vancouver",2026-06-18T22:00:00Z,760440
+28,A,Mexico,South Korea,"Estadio Akron, Zapopan",2026-06-19T01:00:00Z,760441
+32,D,United States,Australia,"Lumen Field, Seattle",2026-06-19T19:00:00Z,760442
+30,C,Scotland,Morocco,"Gillette Stadium, Foxborough",2026-06-19T22:00:00Z,760445
+29,C,Brazil,Haiti,"Lincoln Financial Field, Philadelphia",2026-06-20T00:30:00Z,760444
+31,D,Turkiye,Paraguay,"Levi's Stadium, Santa Clara",2026-06-20T03:00:00Z,760443
+35,F,Netherlands,Sweden,"NRG Stadium, Houston",2026-06-20T17:00:00Z,760447
+33,E,Germany,Ivory Coast,"BMO Field, Toronto",2026-06-20T20:00:00Z,760448
+34,E,Ecuador,Curacao,"Arrowhead Stadium, Kansas City",2026-06-21T00:00:00Z,760446
+36,F,Tunisia,Japan,"Estadio BBVA, Guadalupe",2026-06-21T04:00:00Z,760449
+38,H,Spain,Saudi Arabia,"Mercedes-Benz Stadium, Atlanta",2026-06-21T16:00:00Z,760453
+39,G,Belgium,Iran,"SoFi Stadium, Inglewood",2026-06-21T19:00:00Z,760451
+37,H,Uruguay,Cape Verde,"Hard Rock Stadium, Miami Gardens",2026-06-21T22:00:00Z,760450
+40,G,New Zealand,Egypt,"BC Place, Vancouver",2026-06-22T01:00:00Z,760452
+43,J,Argentina,Austria,"AT&T Stadium, Arlington",2026-06-22T17:00:00Z,760456
+42,I,France,Iraq,"Lincoln Financial Field, Philadelphia",2026-06-22T21:00:00Z,760457
+41,I,Norway,Senegal,"MetLife Stadium, East Rutherford",2026-06-23T00:00:00Z,760454
+44,J,Jordan,Algeria,"Levi's Stadium, Santa Clara",2026-06-23T03:00:00Z,760455
+47,K,Portugal,Uzbekistan,"NRG Stadium, Houston",2026-06-23T17:00:00Z,760461
+45,L,England,Ghana,"Gillette Stadium, Foxborough",2026-06-23T20:00:00Z,760458
+46,L,Panama,Croatia,"BMO Field, Toronto",2026-06-23T23:00:00Z,760460
+48,K,Colombia,DR Congo,"Estadio Akron, Zapopan",2026-06-24T02:00:00Z,760459
+51,B,Switzerland,Canada,"BC Place, Vancouver",2026-06-24T19:00:00Z,760463
+52,B,Bosnia and Herzegovina,Qatar,"Lumen Field, Seattle",2026-06-24T19:00:00Z,760462
+49,C,Scotland,Brazil,"Hard Rock Stadium, Miami Gardens",2026-06-24T22:00:00Z,760465
+50,C,Morocco,Haiti,"Mercedes-Benz Stadium, Atlanta",2026-06-24T22:00:00Z,760464
+53,A,Czechia,Mexico,"Estadio Azteca, Mexico City",2026-06-25T01:00:00Z,760467
+54,A,South Africa,South Korea,"Estadio BBVA, Guadalupe",2026-06-25T01:00:00Z,760466
+55,E,Curacao,Ivory Coast,"Lincoln Financial Field, Philadelphia",2026-06-25T20:00:00Z,760473
+56,E,Ecuador,Germany,"MetLife Stadium, East Rutherford",2026-06-25T20:00:00Z,760468
+57,F,Japan,Sweden,"AT&T Stadium, Arlington",2026-06-25T23:00:00Z,760471
+58,F,Tunisia,Netherlands,"Arrowhead Stadium, Kansas City",2026-06-25T23:00:00Z,760472
+59,D,Turkiye,United States,"SoFi Stadium, Inglewood",2026-06-26T02:00:00Z,760470
+60,D,Paraguay,Australia,"Levi's Stadium, Santa Clara",2026-06-26T02:00:00Z,760469
+61,I,Norway,France,"Gillette Stadium, Foxborough",2026-06-26T19:00:00Z,760475
+62,I,Senegal,Iraq,"BMO Field, Toronto",2026-06-26T19:00:00Z,760474
+65,H,Cape Verde,Saudi Arabia,"NRG Stadium, Houston",2026-06-27T00:00:00Z,760478
+66,H,Uruguay,Spain,"Estadio Akron, Zapopan",2026-06-27T00:00:00Z,760479
+63,G,Egypt,Iran,"Lumen Field, Seattle",2026-06-27T03:00:00Z,760476
+64,G,New Zealand,Belgium,"BC Place, Vancouver",2026-06-27T03:00:00Z,760477
+67,L,Panama,England,"MetLife Stadium, East Rutherford",2026-06-27T21:00:00Z,760485
+68,L,Croatia,Ghana,"Lincoln Financial Field, Philadelphia",2026-06-27T21:00:00Z,760480
+71,K,Colombia,Portugal,"Hard Rock Stadium, Miami Gardens",2026-06-27T23:30:00Z,760481
+72,K,DR Congo,Uzbekistan,"Mercedes-Benz Stadium, Atlanta",2026-06-27T23:30:00Z,760482
+69,J,Algeria,Austria,"Arrowhead Stadium, Kansas City",2026-06-28T02:00:00Z,760484
+70,J,Jordan,Argentina,"AT&T Stadium, Arlington",2026-06-28T02:00:00Z,760483
