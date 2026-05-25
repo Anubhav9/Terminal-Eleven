@@ -1,0 +1,61 @@
+Screen {
+    align: center middle;
+    background: #05070d;
+    color: #edf2f4;
+}
+
+Header {
+    background: #0b1020;
+}
+
+#fixtures-shell {
+    width: 95%;
+    max-width: 140;
+    height: 92%;
+    padding: 1 2;
+    border: heavy #2ec4b6;
+    background: #080c16;
+    scrollbar-size: 0 1;
+}
+
+#fixtures-title {
+    width: 100%;
+    content-align: center middle;
+    color: #ffbf69;
+    text-style: bold;
+}
+
+#fixtures-subtitle {
+    width: 100%;
+    margin-bottom: 1;
+    content-align: center middle;
+    color: #cbf3f0;
+}
+
+.date-header {
+    width: 100%;
+    margin: 1 0 0 0;
+    padding: 0 1;
+    background: #0b1f1c;
+    color: #ffbf69;
+    text-style: bold;
+}
+
+.day-table {
+    width: 100%;
+    height: auto;
+    margin-bottom: 1;
+}
+
+DataTable > .datatable--header {
+    background: #0b1f1c;
+    color: #ffbf69;
+    text-style: bold;
+}
+
+#fixtures-back-hint {
+    width: 100%;
+    margin-top: 1;
+    content-align: center middle;
+    color: #cbf3f0;
+}
