@@ -2,6 +2,9 @@
 
 The 2026 World Cup, in your terminal. Built for people who can't watch it any other way.
 
+<img width="1355" height="821" alt="image" src="https://github.com/user-attachments/assets/ae74f138-fb1d-4f2e-8771-9f3b864cbf06" />
+
+
 ---
 
 Here in India, most of the matches kick off between 11:30 PM and 7:30 AM. The final is at 12:30 AM. And as far as anyone can tell, no broadcaster has bought the Indian rights yet. China is in the same spot.
