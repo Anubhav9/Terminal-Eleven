@@ -1,0 +1,56 @@
+Screen {
+    align: center middle;
+    background: #05070d;
+    color: #edf2f4;
+}
+
+Header {
+    background: #0b1020;
+}
+
+#main {
+    width: 90%;
+    max-width: 88;
+    height: auto;
+    padding: 1 2;
+    border: heavy #2ec4b6;
+    background: #080c16;
+}
+
+#title {
+    width: 100%;
+    content-align: center middle;
+}
+
+#subtitle {
+    width: 100%;
+    margin-top: 2;
+    content-align: center middle;
+}
+
+#tagline {
+    width: 100%;
+    margin: 1 0 2 0;
+    content-align: center middle;
+    text-wrap: wrap;
+}
+
+#menu-title {
+    margin-bottom: 1;
+}
+
+#menu {
+    width: 100%;
+    height: auto;
+    border: tall #1b263b;
+}
+
+ListItem {
+    padding: 1 2;
+}
+
+ListItem.--highlight {
+    background: #2ec4b6;
+    color: #05070d;
+    text-style: bold;
+}
