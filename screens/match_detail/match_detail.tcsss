@@ -1,0 +1,172 @@
+Screen {
+    align: center middle;
+    background: #05070d;
+    color: #edf2f4;
+}
+
+Header {
+    background: #0b1020;
+}
+
+#match-shell {
+    width: 92%;
+    max-width: 100;
+    height: 92%;
+    padding: 1 3;
+    border: heavy #2ec4b6;
+    background: #080c16;
+}
+
+/* ── team header ───────────────────── */
+
+#team-header-row {
+    width: 100%;
+    height: 2;
+    margin-bottom: 1;
+}
+
+.team-name {
+    width: 1fr;
+    height: 100%;
+    content-align: center middle;
+    text-style: bold;
+}
+
+.team-a-color {
+    color: #7dd3fc;
+}
+
+.team-b-color {
+    color: #ffbf69;
+}
+
+#vs-label {
+    width: 6;
+    height: 100%;
+    content-align: center middle;
+    color: #cbf3f0;
+    text-style: bold;
+}
+
+/* ── score + clock ─────────────────── */
+
+#score-row {
+    width: 100%;
+    height: 7;
+    margin-bottom: 1;
+}
+
+.big-score {
+    width: 1fr;
+    height: 100%;
+    content-align: center middle;
+    text-style: bold;
+}
+
+#clock-block {
+    width: 18;
+    height: 100%;
+    border: round #2ec4b6;
+    content-align: center middle;
+    background: #0b1f1c;
+}
+
+#match-minute {
+    width: 100%;
+    content-align: center middle;
+    color: #edf2f4;
+    text-style: bold;
+}
+
+#match-period {
+    width: 100%;
+    content-align: center middle;
+    color: #cbf3f0;
+}
+
+#live-badge {
+    width: 100%;
+    content-align: center middle;
+    color: #ff4d4d;
+    text-style: bold;
+}
+
+/* ── section dividers ──────────────── */
+
+.section-divider {
+    width: 100%;
+    margin: 1 0 0 0;
+    content-align: center middle;
+    color: #ffbf69;
+    text-style: bold;
+}
+
+/* ── goals & cards rows ────────────── */
+
+#goals-row,
+#cards-row {
+    width: 100%;
+    height: auto;
+    margin-top: 1;
+}
+
+.side-block {
+    width: 1fr;
+    height: auto;
+    padding: 0 2;
+    content-align: center top;
+}
+
+/* ── stats grid ────────────────────── */
+
+#stats-grid {
+    width: 100%;
+    margin-top: 1;
+    layout: grid;
+    grid-size: 3;
+    grid-columns: 1fr 2fr 1fr;
+    grid-gutter: 0 2;
+    height: auto;
+}
+
+.stats-header {
+    width: 100%;
+    content-align: center middle;
+    text-style: bold;
+    color: #ffbf69;
+}
+
+.stat-label {
+    width: 100%;
+    content-align: center middle;
+    color: #cbf3f0;
+}
+
+.stat-value {
+    width: 100%;
+    content-align: center middle;
+    text-style: bold;
+}
+
+/* ── footer ─────────────────────────── */
+
+#match-meta {
+    width: 100%;
+    margin-top: 2;
+    content-align: center middle;
+    color: #6b7a99;
+}
+
+#match-refreshed-at {
+    width: 100%;
+    margin-top: 1;
+    content-align: center middle;
+    color: #6b7a99;
+}
+
+#match-back-hint {
+    width: 100%;
+    margin-top: 1;
+    content-align: center middle;
+    color: #cbf3f0;
+}
