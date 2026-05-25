@@ -1,0 +1,70 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "terminal-eleven"
+version = "0.1.0"
+description = "Follow the FIFA World Cup 2026 from your terminal — fixtures, live scores, goal alerts with sound."
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [
+    { name = "Anubhav Sanyal" },
+]
+keywords = [
+    "fifa",
+    "world-cup",
+    "world-cup-2026",
+    "football",
+    "soccer",
+    "live-scores",
+    "tui",
+    "terminal",
+    "textual",
+    "cli",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Environment :: Console",
+    "Intended Audience :: End Users/Desktop",
+    "Operating System :: MacOS",
+    "Operating System :: POSIX :: Linux",
+    "Operating System :: Microsoft :: Windows",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Games/Entertainment",
+    "Topic :: Terminals",
+]
+dependencies = [
+    "textual>=0.86.0",
+    "httpx>=0.27.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/Anubhav9/Terminal-Eleven"
+Repository = "https://github.com/Anubhav9/Terminal-Eleven"
+Issues = "https://github.com/Anubhav9/Terminal-Eleven/issues"
+
+[project.scripts]
+terminal-eleven = "terminal_eleven.app:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["terminal_eleven"]
+
+[tool.hatch.build.targets.sdist]
+include = [
+    "/terminal_eleven",
+    "/README.md",
+    "/LICENSE",
+    "/pyproject.toml",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
