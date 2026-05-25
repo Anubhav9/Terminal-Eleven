@@ -1,0 +1,71 @@
+Screen {
+    align: center middle;
+    background: #05070d;
+    color: #edf2f4;
+}
+
+Header {
+    background: #0b1020;
+}
+
+#live-scores-shell {
+    width: 95%;
+    max-width: 130;
+    height: 92%;
+    padding: 1 2;
+    border: heavy #2ec4b6;
+    background: #080c16;
+}
+
+#live-scores-title {
+    width: 100%;
+    content-align: center middle;
+    color: #ffbf69;
+    text-style: bold;
+}
+
+#live-scores-clock {
+    width: 100%;
+    margin-top: 1;
+    content-align: center middle;
+    color: #7dd3fc;
+}
+
+#live-scores-date-header {
+    width: 100%;
+    margin: 1 0;
+    content-align: center middle;
+    color: #cbf3f0;
+    text-style: bold;
+}
+
+#live-scores-table {
+    width: 100%;
+    height: 1fr;
+    margin-bottom: 1;
+}
+
+DataTable > .datatable--header {
+    background: #0b1f1c;
+    color: #ffbf69;
+    text-style: bold;
+}
+
+DataTable > .datatable--cursor {
+    background: #2ec4b6;
+    color: #05070d;
+    text-style: bold;
+}
+
+#live-scores-hint {
+    width: 100%;
+    content-align: center middle;
+    color: #cbf3f0;
+}
+
+#live-scores-back-hint {
+    width: 100%;
+    margin-top: 1;
+    content-align: center middle;
+    color: #cbf3f0;
+}
